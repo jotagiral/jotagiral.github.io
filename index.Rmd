@@ -1,0 +1,12 @@
+---
+title: "Jorge A. Giraldo (PhD)"
+---
+
+I am interested in tropical ecology, dendrochronology, and plant physiology. 
+
+[Read more about me..](about.html)
+
+
+![](Jorge3.jpg){width=600px}
+
+

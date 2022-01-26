@@ -1,0 +1,29 @@
+name: "Jorge A. Giraldo"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Jorge A. Giraldo"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html      
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: "contactme.html"                    # CHANGE HERE
+    - text: "twitter"
+      icon: fa-twitter
+      href: https://twitter.com/jagiral1
+    - text: "GitHub"
+      icon: fa-github
+      href: https://https://github.com/jotagiral       # CHANGE HERE 
+output:
+  html_document:
+    theme: readable
+    highlight: textmate

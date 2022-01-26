@@ -1,0 +1,58 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100463316-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+```{js, echo = FALSE}
+document.title = "Jorge A. Giraldo"
+```
+
+<br>
+
+## Research interest
+
+My main research interests are focused on forest dynamics and responses of forests to natural environmental conditions and anthropogenic impacts. For this purposed, I use tree rings, phenological observations, wood anatomical traits, radiocarbon, and isotope stable analysis together with computational tools. 
+
+## Education
+
++ **PhD in Ecology ** | Universidad Nacional de Colombia | 2016-2021
+
++ **M.Sc. in Forest and Environmental Conservancy** | Universidad Nacional de Colombia | 2010-2012
+
++ **B.Sc. in Forestry** | Universidad Nacional de Colombia | 2003-2009
+
+## Teaching
+I have dedicated a great time involving, motivating undergraduate students, and sharing my passion for science. I have organized student seminars, research study groups, and teaching. In particular, I taught the dendrochronology course at Universidad Nacional de Colombia and Biophysics course at Universidad San Martín (Colombia). I also have taught in one dendrochronology workshop organized by Universidad Continental in Perú.
+
++ **Dendrochornology course** | Universidad Nacional de Colombia | 2021 - 2019 -2012
++ **Biophysics course** | Universidad San Martín | 2012 - 2013
+
+## Publications
++ Giraldo, JA; del Valle, JI; González-Caro, S; Sierra, CA. (2021) Intra-annual isotope variations in tree rings reveal growth rhythms within the least-rainy season of an ever-wet tropical forest. Trees (Accepted).
+
++ del Valle JI. & Giraldo, JA. 2020. Radiocarbon and dendrochronology applied in a legal dispute: a case from Colombia. Radiocarbon 61: 1215-1223. 
+
++ Giraldo, JA & del Valle JI. (2017) Sidereal and climate variations, observed in Colombia: record from tree rings (Conference paper, originally in Spanish). 7° Congreso Forestal Español. 7CFE01-064. Sociedad Española de Ciencias Forestales. ISBN: 978-84-941695-2-6.
+
++ López, J; del Valle JI; Giraldo, JA (2014). Flood-promoted vessel production in Prioria copaifera, a tree of the Darien Gap, Colombia. Tree Physiology, 34: 1079-1089.
+
++ Giraldo, JA, Giraldo VD & del Valle JI (2012) Solar activity and climate recorded from tree rings of Albizia niopoides (Originally in Spanish). Boletín del Centro de Investigación en Ecosistemas y Cambio Global, 9: 1-5.
+
++ Lara, CE & Giraldo, JA (2011). Ecology and silviculture of the Catival forest (Originally in Spanish). Boletín del Centro de Investigación en Ecosistemas y Cambio Global, 8: 11-19
+
++ Giraldo, JA (2011). Dendrochronology in the tropic: Current and potential applications (Originally in Spanish). Colombia Forestal, 14: 97-111.
+
++ Giraldo, JA & del Valle JI (2011) Growth study of Prioria copaifera (Caesalpiniaceae) using dendrochronological techniques (Originally in Spanish). Revista de Biología tropical / International Journal of Tropical Biology and Conservation 59: 1813-1831.
+
+### Book chapters
++ Giraldo, JA; del Valle, JI; Sierra, CA; Melo O. (2020) Dendrochronological Potential of Trees from America’s Rainiest Region. In Pompa-Garcia, M & Camarero, JJ (Eds.) Latin American Dendroecology – Combining tree-ring sciences and ecology in a mega diverse territory Springer, ISBN: 3-030-36930-7
+
++ Giraldo, JA. Methodological applications to study of urban trees (Originally in Spanish) (2015). In: Universidad Nacional de Colombia & Alcaldía de Envigado (eds.). Manual de Silvicultura Urbana (pp 231-240). Centro de Publicaciones Universidad Nacional de Colombia Sede Medellín. ISBN: 978-958-98108-8-0
+
+----
