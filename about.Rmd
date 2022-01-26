@@ -15,7 +15,7 @@ document.title = "Jorge A. Giraldo"
 
 <br>
 
-## Research interest
+## Research interests
 
 My main research interests are focused on forest dynamics and responses of forests to natural environmental conditions and anthropogenic impacts. For this purposed, I use tree rings, phenological observations, wood anatomical traits, radiocarbon, and isotope stable analysis together with computational tools. 
 
