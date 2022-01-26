@@ -22,7 +22,7 @@ navbar:
       href: https://twitter.com/jagiral1
     - text: "GitHub"
       icon: fa-github
-      href: https://https://github.com/jotagiral       # CHANGE HERE 
+      href: https://github.com/jotagiral       # CHANGE HERE 
 output:
   html_document:
     theme: readable
